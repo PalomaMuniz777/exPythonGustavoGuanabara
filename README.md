@@ -185,3 +185,4 @@ Lecionado pelo prof. Gustavo Guanabara e hospedado no site do Curso em Vídeo (v
 - Exercício Python #115a - Criando um menu em Python
 - Exercício Python #115b - Criando um menu em Python
 - Exercício Python #115c - Finalizando o projeto
+# exPythonGustavoGuanabara
